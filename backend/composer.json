@@ -27,6 +27,9 @@
     "scripts": {
         "post-autoload-dump": [
             "Illuminate\\Foundation\\ComposerScripts::postAutoloadDump"
+        ],
+        "vercel": [
+            "@php artisan package:discover --ansi"
         ]
     },
     "minimum-stability": "stable",
