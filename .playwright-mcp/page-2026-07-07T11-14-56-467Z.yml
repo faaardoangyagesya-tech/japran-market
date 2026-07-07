@@ -1,0 +1,287 @@
+- generic [active] [ref=f61e1]:
+  - link "Skip to content":
+    - /url: "#geist-skip-nav"
+  - main [ref=f61e3]:
+    - generic [ref=f61e4]:
+      - generic [ref=f61e5]:
+        - generic [ref=f61e6]:
+          - generic [ref=f61e7]:
+            - generic [ref=f61e10]:
+              - link "Japran Hobby" [ref=f61e11] [cursor=pointer]:
+                - /url: /japran
+                - img [ref=f61e12]
+                - generic [ref=f61e13]:
+                  - generic [ref=f61e14]: Japran
+                  - generic [ref=f61e15]: Hobby
+              - button [ref=f61e16] [cursor=pointer]:
+                - img [ref=f61e18]
+            - button "Find… F" [ref=f61e21]:
+              - generic [ref=f61e23]:
+                - img [ref=f61e25]
+                - generic [ref=f61e27]: Find…
+                - generic [ref=f61e29]: F
+          - navigation [ref=f61e31]:
+            - generic [ref=f61e34]:
+              - link "Other Overview" [ref=f61e35] [cursor=pointer]:
+                - /url: /japran/japran-market-api
+                - img "Other" [ref=f61e37]:
+                  - img "Other" [ref=f61e38]
+                - generic [ref=f61e40]: Overview
+              - link "Deployments" [ref=f61e41] [cursor=pointer]:
+                - /url: /japran/japran-market-api/deployments
+                - img [ref=f61e43]
+                - generic [ref=f61e46]: Deployments
+              - link "Logs" [ref=f61e47] [cursor=pointer]:
+                - /url: /japran/japran-market-api/logs
+                - img [ref=f61e49]
+                - generic [ref=f61e52]: Logs
+              - link "Analytics" [ref=f61e53] [cursor=pointer]:
+                - /url: /japran/japran-market-api/analytics
+                - img [ref=f61e55]
+                - generic [ref=f61e58]: Analytics
+              - link "Speed Insights" [ref=f61e59] [cursor=pointer]:
+                - /url: /japran/japran-market-api/speed-insights
+                - img [ref=f61e61]
+                - generic [ref=f61e64]: Speed Insights
+              - link "Observability" [ref=f61e65] [cursor=pointer]:
+                - /url: /japran/japran-market-api/observability
+                - img [ref=f61e67]
+                - generic [ref=f61e70]: Observability
+                - img [ref=f61e72]
+              - link "Firewall" [ref=f61e74] [cursor=pointer]:
+                - /url: /japran/japran-market-api/firewall
+                - img [ref=f61e76]
+                - generic [ref=f61e80]: Firewall
+                - img [ref=f61e82]
+              - link "CDN" [ref=f61e84] [cursor=pointer]:
+                - /url: /japran/japran-market-api/cdn
+                - img [ref=f61e86]
+                - generic [ref=f61e89]: CDN
+                - img [ref=f61e91]
+              - separator [ref=f61e93]
+              - link "Environment Variables" [ref=f61e94] [cursor=pointer]:
+                - /url: /japran/japran-market-api/settings/environment-variables
+                - img [ref=f61e96]
+                - generic [ref=f61e99]: Environment Variables
+              - link "Domains" [ref=f61e100] [cursor=pointer]:
+                - /url: /japran/japran-market-api/settings/domains
+                - img [ref=f61e102]
+                - generic [ref=f61e105]: Domains
+              - link "Connect Beta" [ref=f61e106] [cursor=pointer]:
+                - /url: /japran/japran-market-api/connect
+                - img [ref=f61e108]
+                - generic [ref=f61e110]:
+                  - generic [ref=f61e111]: Connect
+                  - generic [ref=f61e112]: Beta
+              - link "Integrations" [ref=f61e113] [cursor=pointer]:
+                - /url: /japran/japran-market-api/settings/integrations
+                - img [ref=f61e115]
+                - generic [ref=f61e118]: Integrations
+              - link "Storage" [ref=f61e119] [cursor=pointer]:
+                - /url: /japran/japran-market-api/stores
+                - img [ref=f61e121]
+                - generic [ref=f61e124]: Storage
+              - link "Flags" [ref=f61e125] [cursor=pointer]:
+                - /url: /japran/japran-market-api/flags
+                - img [ref=f61e127]
+                - generic [ref=f61e130]: Flags
+                - img [ref=f61e132]
+              - link "Agent" [ref=f61e134] [cursor=pointer]:
+                - /url: /japran/japran-market-api/agent
+                - img [ref=f61e136]
+                - generic [ref=f61e139]: Agent
+                - img [ref=f61e141]
+              - link "AI Gateway" [ref=f61e143] [cursor=pointer]:
+                - /url: /japran/japran-market-api/ai-gateway
+                - img [ref=f61e145]
+                - generic [ref=f61e148]: AI Gateway
+                - img [ref=f61e150]
+              - link "Sandboxes" [ref=f61e152] [cursor=pointer]:
+                - /url: /japran/japran-market-api/sandboxes
+                - img [ref=f61e154]
+                - generic [ref=f61e157]: Sandboxes
+                - img [ref=f61e159]
+              - link "Workflows" [ref=f61e161] [cursor=pointer]:
+                - /url: /japran/japran-market-api/workflows
+                - img [ref=f61e163]
+                - generic [ref=f61e166]: Workflows
+              - link "Images Beta" [ref=f61e167] [cursor=pointer]:
+                - /url: /japran/japran-market-api/images
+                - img [ref=f61e169]
+                - generic [ref=f61e171]:
+                  - generic [ref=f61e172]: Images
+                  - generic [ref=f61e173]: Beta
+              - separator [ref=f61e174]
+              - link "Usage" [ref=f61e175] [cursor=pointer]:
+                - /url: /japran/japran-market-api/usage
+                - img [ref=f61e177]
+                - generic [ref=f61e180]: Usage
+              - link "Support" [ref=f61e181] [cursor=pointer]:
+                - /url: /japran/japran-market-api/support
+                - img [ref=f61e183]
+                - generic [ref=f61e186]: Support
+              - link "Settings" [ref=f61e187] [cursor=pointer]:
+                - /url: /japran/japran-market-api/settings
+                - img [ref=f61e189]
+                - generic [ref=f61e192]: Settings
+                - img [ref=f61e194]
+          - generic [ref=f61e200]:
+            - button "Avatar for faaardoangyagesya-tech faaardoangyagesya-tech" [ref=f61e201] [cursor=pointer]:
+              - img "Avatar for faaardoangyagesya-tech" [ref=f61e202]:
+                - img "Avatar for faaardoangyagesya-tech" [ref=f61e203]
+              - generic [ref=f61e205]: faaardoangyagesya-tech
+              - img [ref=f61e207]
+            - img [ref=f61e211]
+        - button [ref=f61e214] [cursor=pointer]:
+          - img [ref=f61e215]
+      - generic [ref=f61e218]:
+        - generic [ref=f61e219]:
+          - generic [ref=f61e222]:
+            - link "Other" [ref=f61e223] [cursor=pointer]:
+              - /url: /japran/japran-market-api
+              - img "Other" [ref=f61e224]:
+                - img "Other" [ref=f61e225]
+            - button [ref=f61e226] [cursor=pointer]:
+              - img [ref=f61e228]
+            - link "Back to team view" [ref=f61e232] [cursor=pointer]:
+              - /url: /japran/~/deployments
+              - img [ref=f61e234]
+          - generic [ref=f61e236]:
+            - generic [ref=f61e237]:
+              - link "Deployments" [ref=f61e238] [cursor=pointer]:
+                - /url: /japran/japran-market-api/deployments
+              - img [ref=f61e239]
+            - generic [ref=f61e241]:
+              - generic [ref=f61e244]: Gy3wPH5jF
+              - button "Copy ID" [ref=f61e246] [cursor=pointer]:
+                - generic [ref=f61e247]:
+                  - img [ref=f61e249]
+                  - img [ref=f61e252]
+        - generic [ref=f61e255]:
+          - generic [ref=f61e257]:
+            - link "Deployment" [ref=f61e258] [cursor=pointer]:
+              - /url: /japran/japran-market-api/Gy3wPH5jFEzYu5Vgx1X9kPXsALfn
+            - link "Logs" [ref=f61e259] [cursor=pointer]:
+              - /url: /japran/japran-market-api/Gy3wPH5jFEzYu5Vgx1X9kPXsALfn/logs
+            - link "Resources" [ref=f61e260] [cursor=pointer]:
+              - /url: /japran/japran-market-api/Gy3wPH5jFEzYu5Vgx1X9kPXsALfn/resources
+            - link "Source" [ref=f61e261] [cursor=pointer]:
+              - /url: /japran/japran-market-api/Gy3wPH5jFEzYu5Vgx1X9kPXsALfn/source
+            - link "Open Graph" [ref=f61e262] [cursor=pointer]:
+              - /url: /japran/japran-market-api/Gy3wPH5jFEzYu5Vgx1X9kPXsALfn/og
+          - generic [ref=f61e263]:
+            - generic [ref=f61e265]:
+              - generic [ref=f61e266]:
+                - heading "Deployment Details" [level=3] [ref=f61e268]
+                - generic [ref=f61e269]:
+                  - button "Redeploy" [ref=f61e271] [cursor=pointer]:
+                    - img [ref=f61e273]
+                    - generic [ref=f61e275]: Redeploy
+                  - button "Deployment Actions" [ref=f61e276] [cursor=pointer]:
+                    - img [ref=f61e279]
+              - generic [ref=f61e281]:
+                - generic [ref=f61e285]:
+                  - generic [ref=f61e287]:
+                    - img [ref=f61e289]
+                    - heading "Build Failed" [level=3] [ref=f61e291]
+                  - generic [ref=f61e296]: Command "vercel build" exited with 1
+                - generic [ref=f61e298]:
+                  - generic [ref=f61e299]:
+                    - generic [ref=f61e300]:
+                      - generic [ref=f61e301]: Created
+                      - generic [ref=f61e302]:
+                        - img "faaardoangyagesya-tech Avatar" [ref=f61e306] [cursor=pointer]:
+                          - img "faaardoangyagesya-tech Avatar" [ref=f61e307]
+                        - generic [ref=f61e308]: faaardoangyagesya-tech
+                        - generic [ref=f61e310]: Just now
+                    - generic [ref=f61e311]:
+                      - generic [ref=f61e312]: Status
+                      - generic "This deployment had an error." [ref=f61e313]:
+                        - generic [ref=f61e317]: Error
+                    - generic [ref=f61e318]:
+                      - generic [ref=f61e319]: Duration
+                      - generic "Jul 8, 2026, 1:14:48 AM GMT+7" [ref=f61e320]:
+                        - img [ref=f61e321]
+                        - text: 4s
+                        - generic [ref=f61e324]: Just now
+                    - generic [ref=f61e325]:
+                      - generic [ref=f61e326]: Environment
+                      - generic [ref=f61e327]:
+                        - img [ref=f61e328]
+                        - link "Production" [ref=f61e330] [cursor=pointer]:
+                          - /url: /japran/japran-market-api/settings/environments/production
+                  - generic [ref=f61e331]:
+                    - generic [ref=f61e332]: Domains
+                    - generic [ref=f61e333]:
+                      - img [ref=f61e335]
+                      - link "japran-market-mbe2w6ot0-japran.vercel.app" [ref=f61e337] [cursor=pointer]:
+                        - /url: https://japran-market-mbe2w6ot0-japran.vercel.app
+                  - generic [ref=f61e338]:
+                    - generic [ref=f61e339]: Source
+                    - generic [ref=f61e340]:
+                      - img [ref=f61e341]
+                      - link "View code" [ref=f61e343] [cursor=pointer]:
+                        - /url: /japran/japran-market-api/Gy3wPH5jFEzYu5Vgx1X9kPXsALfn/source
+                    - generic [ref=f61e344]:
+                      - img [ref=f61e345]
+                      - link "vercel deploy" [ref=f61e347] [cursor=pointer]:
+                        - /url: /docs/cli/deploy
+              - button "Deployment Settings" [ref=f61e351] [cursor=pointer]:
+                - generic [ref=f61e352]:
+                  - img [ref=f61e353]
+                  - generic [ref=f61e356]: Deployment Settings
+            - generic [ref=f61e357]:
+              - generic [ref=f61e358]:
+                - heading "Deployment Summary" [level=2] [ref=f61e360]:
+                  - generic:
+                    - img
+                    - generic:
+                      - generic: Deployment Summary
+                    - generic:
+                      - img
+                - heading "Deployment Checks" [level=2] [ref=f61e362]:
+                  - generic [ref=f61e363] [cursor=pointer]:
+                    - img [ref=f61e364]
+                    - generic [ref=f61e367]: Deployment Checks
+                    - img [ref=f61e369]
+                - heading "Assigning Custom Domains" [level=2] [ref=f61e372]:
+                  - generic:
+                    - img
+                    - generic: Assigning Custom Domains
+                    - generic:
+                      - img
+              - generic [ref=f61e374]:
+                - link "Runtime Logs View and debug runtime logs & errors" [ref=f61e375] [cursor=pointer]:
+                  - /url: /japran/japran-market-api/logs
+                  - img [ref=f61e377]
+                  - generic [ref=f61e379]:
+                    - paragraph [ref=f61e381]: Runtime Logs
+                    - paragraph [ref=f61e382]: View and debug runtime logs & errors
+                - link "Observability Monitor app health & performance" [ref=f61e383] [cursor=pointer]:
+                  - /url: /japran/japran-market-api/observability/serverless-functions
+                  - img [ref=f61e385]
+                  - generic [ref=f61e387]:
+                    - paragraph [ref=f61e389]: Observability
+                    - paragraph [ref=f61e390]: Monitor app health & performance
+                - link "Speed Insights Not Enabled Performance metrics from real users" [ref=f61e391] [cursor=pointer]:
+                  - /url: /japran/japran-market-api/speed-insights
+                  - img [ref=f61e393]
+                  - generic [ref=f61e395]:
+                    - generic [ref=f61e396]:
+                      - paragraph [ref=f61e397]: Speed Insights
+                      - generic [ref=f61e398]: Not Enabled
+                    - paragraph [ref=f61e399]: Performance metrics from real users
+                - link "Web Analytics Not Enabled Analyze visitors & traffic in real-time" [ref=f61e400] [cursor=pointer]:
+                  - /url: /japran/japran-market-api/analytics
+                  - img [ref=f61e402]
+                  - generic [ref=f61e404]:
+                    - generic [ref=f61e405]:
+                      - paragraph [ref=f61e406]: Web Analytics
+                      - generic [ref=f61e407]: Not Enabled
+                    - paragraph [ref=f61e408]: Analyze visitors & traffic in real-time
+  - alert [ref=f61e409]
+  - generic:
+    - generic:
+      - generic:
+        - generic:
+          - img

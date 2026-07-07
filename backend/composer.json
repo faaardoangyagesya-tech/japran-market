@@ -29,7 +29,7 @@
             "Illuminate\\Foundation\\ComposerScripts::postAutoloadDump"
         ],
         "vercel": [
-            "@php artisan package:discover --ansi"
+            "php -r \"chdir(getenv('VERCEL_ROOT_DIR') ?: '.'); require 'artisan';\""
         ]
     },
     "minimum-stability": "stable",
