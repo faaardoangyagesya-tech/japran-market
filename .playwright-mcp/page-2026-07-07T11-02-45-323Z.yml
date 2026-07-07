@@ -1,0 +1,364 @@
+- generic [active] [ref=f25e1]:
+  - link "Skip to content":
+    - /url: "#geist-skip-nav"
+  - main [ref=f25e3]:
+    - generic [ref=f25e4]:
+      - generic [ref=f25e5]:
+        - generic [ref=f25e6]:
+          - generic [ref=f25e7]:
+            - generic [ref=f25e10]:
+              - link "Japran Hobby" [ref=f25e11] [cursor=pointer]:
+                - /url: /japran
+                - img [ref=f25e12]
+                - generic [ref=f25e13]:
+                  - generic [ref=f25e14]: Japran
+                  - generic [ref=f25e15]: Hobby
+              - button [ref=f25e16] [cursor=pointer]:
+                - img [ref=f25e18]
+            - button "Find… F" [ref=f25e21]:
+              - generic [ref=f25e23]:
+                - img [ref=f25e25]
+                - generic [ref=f25e27]: Find…
+                - generic [ref=f25e29]: F
+          - navigation [ref=f25e31]:
+            - generic [ref=f25e32]:
+              - generic:
+                - generic:
+                  - link "Overview":
+                    - /url: /japran/japran-market-api
+                    - generic:
+                      - generic: Overview
+                  - link "Deployments":
+                    - /url: /japran/japran-market-api/deployments
+                    - generic:
+                      - img
+                    - generic:
+                      - generic: Deployments
+                  - link "Logs":
+                    - /url: /japran/japran-market-api/logs
+                    - generic:
+                      - img
+                    - generic:
+                      - generic: Logs
+                    - generic:
+                      - img
+                  - link "Analytics":
+                    - /url: /japran/japran-market-api/analytics
+                    - generic:
+                      - img
+                    - generic:
+                      - generic: Analytics
+                  - link "Speed Insights":
+                    - /url: /japran/japran-market-api/speed-insights
+                    - generic:
+                      - img
+                    - generic:
+                      - generic: Speed Insights
+                  - link "Observability":
+                    - /url: /japran/japran-market-api/observability
+                    - generic:
+                      - img
+                    - generic:
+                      - generic: Observability
+                    - generic:
+                      - img
+                  - link "Firewall":
+                    - /url: /japran/japran-market-api/firewall
+                    - generic:
+                      - img
+                    - generic:
+                      - generic: Firewall
+                    - generic:
+                      - img
+                  - link "CDN":
+                    - /url: /japran/japran-market-api/cdn
+                    - generic:
+                      - img
+                    - generic:
+                      - generic: CDN
+                    - generic:
+                      - img
+                  - separator
+                  - link "Environment Variables":
+                    - /url: /japran/japran-market-api/settings/environment-variables
+                    - generic:
+                      - img
+                    - generic:
+                      - generic: Environment Variables
+                  - link "Domains":
+                    - /url: /japran/japran-market-api/settings/domains
+                    - generic:
+                      - img
+                    - generic:
+                      - generic: Domains
+                  - link "Connect Beta":
+                    - /url: /japran/japran-market-api/connect
+                    - generic:
+                      - img
+                    - generic:
+                      - generic: Connect
+                      - generic: Beta
+                  - link "Integrations":
+                    - /url: /japran/japran-market-api/settings/integrations
+                    - generic:
+                      - img
+                    - generic:
+                      - generic: Integrations
+                  - link "Storage":
+                    - /url: /japran/japran-market-api/stores
+                    - generic:
+                      - img
+                    - generic:
+                      - generic: Storage
+                  - link "Flags":
+                    - /url: /japran/japran-market-api/flags
+                    - generic:
+                      - img
+                    - generic:
+                      - generic: Flags
+                    - generic:
+                      - img
+                  - link "Agent":
+                    - /url: /japran/japran-market-api/agent
+                    - generic:
+                      - img
+                    - generic:
+                      - generic: Agent
+                    - generic:
+                      - img
+                  - link "AI Gateway":
+                    - /url: /japran/japran-market-api/ai-gateway
+                    - generic:
+                      - img
+                    - generic:
+                      - generic: AI Gateway
+                    - generic:
+                      - img
+                  - link "Sandboxes":
+                    - /url: /japran/japran-market-api/sandboxes
+                    - generic:
+                      - img
+                    - generic:
+                      - generic: Sandboxes
+                    - generic:
+                      - img
+                  - link "Workflows":
+                    - /url: /japran/japran-market-api/workflows
+                    - generic:
+                      - img
+                    - generic:
+                      - generic: Workflows
+                  - link "Images Beta":
+                    - /url: /japran/japran-market-api/images
+                    - generic:
+                      - img
+                    - generic:
+                      - generic: Images
+                      - generic: Beta
+                  - separator
+                  - link "Usage":
+                    - /url: /japran/japran-market-api/usage
+                    - generic:
+                      - img
+                    - generic:
+                      - generic: Usage
+                  - link "Support":
+                    - /url: /japran/japran-market-api/support
+                    - generic:
+                      - img
+                    - generic:
+                      - generic: Support
+                  - link "Settings":
+                    - /url: /japran/japran-market-api/settings
+                    - generic:
+                      - img
+                    - generic:
+                      - generic: Settings
+                    - generic:
+                      - img
+              - generic [ref=f25e33]:
+                - button "Logs" [ref=f25e35] [cursor=pointer]:
+                  - img [ref=f25e37]
+                  - generic [ref=f25e39]: Logs
+                - generic [ref=f25e41]:
+                  - generic [ref=f25e42]:
+                    - generic [ref=f25e44]: Filters
+                    - button "Reset" [disabled] [ref=f25e46]:
+                      - generic [ref=f25e47]: Reset
+                  - generic [ref=f25e48]:
+                    - paragraph [ref=f25e49]:
+                      - button "Timeline" [disabled] [expanded] [ref=f25e50] [cursor=pointer]:
+                        - generic [ref=f25e52]:
+                          - img [ref=f25e55]
+                          - generic [ref=f25e57]: Timeline
+                    - region "Timeline" [ref=f25e58]:
+                      - generic [ref=f25e60]:
+                        - button "5:32pm - 6:02pm" [ref=f25e63] [cursor=pointer]:
+                          - img [ref=f25e65]
+                        - generic [ref=f25e67]:
+                          - generic [ref=f25e68]: Combobox Menu
+                          - generic [ref=f25e69]:
+                            - combobox "Combobox Menu" [expanded] [ref=f25e70]: Last 30 minutes
+                            - img
+                  - generic [ref=f25e72]:
+                    - paragraph [ref=f25e73]:
+                      - button "Contains Console Level" [disabled] [expanded] [ref=f25e74] [cursor=pointer]:
+                        - generic [ref=f25e76]:
+                          - img [ref=f25e79]
+                          - generic [ref=f25e81]: Contains Console Level
+                    - region "Contains Console Level" [ref=f25e82]:
+                      - generic [ref=f25e85]:
+                        - generic [ref=f25e88] [cursor=pointer]:
+                          - generic [ref=f25e89]:
+                            - checkbox "Warning" [ref=f25e90]
+                            - img [ref=f25e92]
+                          - generic [ref=f25e95]: Warning
+                        - generic [ref=f25e99] [cursor=pointer]:
+                          - generic [ref=f25e100]:
+                            - checkbox "Error" [ref=f25e101]
+                            - img [ref=f25e103]
+                          - generic [ref=f25e106]: Error
+                        - generic [ref=f25e110] [cursor=pointer]:
+                          - generic [ref=f25e111]:
+                            - checkbox "Fatal" [ref=f25e112]
+                            - img [ref=f25e114]
+                          - generic [ref=f25e117]: Fatal
+                  - paragraph [ref=f25e120]:
+                    - button "Resource" [ref=f25e121] [cursor=pointer]:
+                      - generic [ref=f25e123]:
+                        - img [ref=f25e126]
+                        - generic [ref=f25e128]: Resource
+                  - paragraph [ref=f25e133]:
+                    - button "Environment" [ref=f25e134] [cursor=pointer]:
+                      - generic [ref=f25e136]:
+                        - img [ref=f25e139]
+                        - generic [ref=f25e141]: Environment
+                  - paragraph [ref=f25e143]:
+                    - button "Route" [ref=f25e144] [cursor=pointer]:
+                      - generic [ref=f25e146]:
+                        - img [ref=f25e149]
+                        - generic [ref=f25e151]: Route
+                  - paragraph [ref=f25e153]:
+                    - button "Request Path" [ref=f25e154] [cursor=pointer]:
+                      - generic [ref=f25e156]:
+                        - img [ref=f25e159]
+                        - generic [ref=f25e161]: Request Path
+                  - paragraph [ref=f25e163]:
+                    - button "Status Code" [ref=f25e164] [cursor=pointer]:
+                      - generic [ref=f25e166]:
+                        - img [ref=f25e169]
+                        - generic [ref=f25e171]: Status Code
+                  - paragraph [ref=f25e173]:
+                    - button "Request Type" [ref=f25e174] [cursor=pointer]:
+                      - generic [ref=f25e176]:
+                        - img [ref=f25e179]
+                        - generic [ref=f25e181]: Request Type
+                  - paragraph [ref=f25e183]:
+                    - button "Host" [ref=f25e184] [cursor=pointer]:
+                      - generic [ref=f25e186]:
+                        - img [ref=f25e189]
+                        - generic [ref=f25e191]: Host
+                  - paragraph [ref=f25e193]:
+                    - button "Service" [ref=f25e194] [cursor=pointer]:
+                      - generic [ref=f25e196]:
+                        - img [ref=f25e199]
+                        - generic [ref=f25e201]: Service
+                  - paragraph [ref=f25e203]:
+                    - button "Request Method" [ref=f25e204] [cursor=pointer]:
+                      - generic [ref=f25e206]:
+                        - img [ref=f25e209]
+                        - generic [ref=f25e211]: Request Method
+                  - paragraph [ref=f25e213]:
+                    - button "Cache" [ref=f25e214] [cursor=pointer]:
+                      - generic [ref=f25e216]:
+                        - img [ref=f25e219]
+                        - generic [ref=f25e221]: Cache
+                  - paragraph [ref=f25e223]:
+                    - button "Branch" [ref=f25e224] [cursor=pointer]:
+                      - generic [ref=f25e226]:
+                        - img [ref=f25e229]
+                        - generic [ref=f25e231]: Branch
+                  - paragraph [ref=f25e233]:
+                    - button "Deployment ID" [ref=f25e234] [cursor=pointer]:
+                      - generic [ref=f25e236]:
+                        - img [ref=f25e239]
+                        - generic [ref=f25e241]: Deployment ID
+                  - paragraph [ref=f25e243]:
+                    - button "Workflow Run" [ref=f25e244] [cursor=pointer]:
+                      - generic [ref=f25e246]:
+                        - img [ref=f25e249]
+                        - generic [ref=f25e251]: Workflow Run
+                        - img [ref=f25e254]
+                  - paragraph [ref=f25e258]:
+                    - button "Workflow Step" [ref=f25e259] [cursor=pointer]:
+                      - generic [ref=f25e261]:
+                        - img [ref=f25e264]
+                        - generic [ref=f25e266]: Workflow Step
+                        - img [ref=f25e269]
+          - generic [ref=f25e276]:
+            - button "Avatar for faaardoangyagesya-tech faaardoangyagesya-tech" [ref=f25e277] [cursor=pointer]:
+              - img "Avatar for faaardoangyagesya-tech" [ref=f25e278]:
+                - img "Avatar for faaardoangyagesya-tech" [ref=f25e279]
+              - generic [ref=f25e281]: faaardoangyagesya-tech
+              - img [ref=f25e283]
+            - img [ref=f25e287]
+        - button [ref=f25e290] [cursor=pointer]:
+          - img [ref=f25e291]
+      - generic [ref=f25e294]:
+        - generic [ref=f25e295]:
+          - generic [ref=f25e298]:
+            - link [ref=f25e299] [cursor=pointer]:
+              - /url: /japran/japran-market-api
+            - button [ref=f25e301] [cursor=pointer]:
+              - img [ref=f25e303]
+            - link "Back to team view" [ref=f25e307] [cursor=pointer]:
+              - /url: /japran/~/logs
+              - img [ref=f25e309]
+          - generic [ref=f25e313]: Logs
+        - generic [ref=f25e322]:
+          - generic [ref=f25e323]:
+            - generic [ref=f25e325]:
+              - textbox [ref=f25e326]:
+                - paragraph [ref=f25e327]
+              - generic: Search logs...
+              - generic:
+                - status "Loading":
+                  - generic: Loading...
+            - generic [ref=f25e328]:
+              - button "Enable My Logs" [ref=f25e330] [cursor=pointer]:
+                - img [ref=f25e332]
+              - button "Enable Has Traces" [ref=f25e337] [cursor=pointer]:
+                - img [ref=f25e339]
+              - generic [ref=f25e344]:
+                - button "Live" [ref=f25e345] [cursor=pointer]:
+                  - img [ref=f25e347]
+                  - generic [ref=f25e349]: Live
+                - button "Refresh Logs" [disabled] [ref=f25e350]:
+                  - status "Loading" [ref=f25e352]:
+                    - generic [ref=f25e363]: Loading...
+              - button "Query Actions" [ref=f25e364] [cursor=pointer]:
+                - img [ref=f25e367]
+          - generic [ref=f25e369]:
+            - generic:
+              - img:
+                - generic:
+                  - generic:
+                    - generic:
+                      - generic: 17:33:00
+                    - generic:
+                      - generic: 17:47:30
+                    - generic:
+                      - generic: 18:02:50
+          - generic [ref=f25e371]:
+            - generic [ref=f25e372]: Time
+            - generic [ref=f25e373]: Status
+            - generic [ref=f25e374]: Host
+            - generic [ref=f25e375]: Request
+            - generic [ref=f25e376]: Messages
+  - alert [ref=f25e530]
+  - generic:
+    - generic:
+      - generic:
+        - generic:
+          - img
+  - generic [ref=f25e531]: 17:47:30

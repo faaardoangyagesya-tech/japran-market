@@ -1,0 +1,298 @@
+- generic [active] [ref=f30e1]:
+  - link "Skip to content":
+    - /url: "#geist-skip-nav"
+  - main [ref=f30e3]:
+    - generic [ref=f30e4]:
+      - generic [ref=f30e5]:
+        - generic [ref=f30e6]:
+          - generic [ref=f30e7]:
+            - generic [ref=f30e10]:
+              - link "Japran Hobby" [ref=f30e11] [cursor=pointer]:
+                - /url: /japran
+                - img [ref=f30e12]
+                - generic [ref=f30e13]:
+                  - generic [ref=f30e14]: Japran
+                  - generic [ref=f30e15]: Hobby
+              - button [ref=f30e16] [cursor=pointer]:
+                - img [ref=f30e18]
+            - button "Find… F" [ref=f30e21]:
+              - generic [ref=f30e23]:
+                - img [ref=f30e25]
+                - generic [ref=f30e27]: Find…
+                - generic [ref=f30e29]: F
+          - navigation [ref=f30e31]:
+            - generic [ref=f30e32]:
+              - generic:
+                - generic:
+                  - link "Overview":
+                    - /url: /japran/japran-market-api
+                    - generic:
+                      - generic: Overview
+                  - link "Deployments":
+                    - /url: /japran/japran-market-api/deployments
+                    - generic:
+                      - img
+                    - generic:
+                      - generic: Deployments
+                  - link "Logs":
+                    - /url: /japran/japran-market-api/logs
+                    - generic:
+                      - img
+                    - generic:
+                      - generic: Logs
+                  - link "Analytics":
+                    - /url: /japran/japran-market-api/analytics
+                    - generic:
+                      - img
+                    - generic:
+                      - generic: Analytics
+                  - link "Speed Insights":
+                    - /url: /japran/japran-market-api/speed-insights
+                    - generic:
+                      - img
+                    - generic:
+                      - generic: Speed Insights
+                  - link "Observability":
+                    - /url: /japran/japran-market-api/observability
+                    - generic:
+                      - img
+                    - generic:
+                      - generic: Observability
+                    - generic:
+                      - img
+                  - link "Firewall":
+                    - /url: /japran/japran-market-api/firewall
+                    - generic:
+                      - img
+                    - generic:
+                      - generic: Firewall
+                    - generic:
+                      - img
+                  - link "CDN":
+                    - /url: /japran/japran-market-api/cdn
+                    - generic:
+                      - img
+                    - generic:
+                      - generic: CDN
+                    - generic:
+                      - img
+                  - separator
+                  - link "Environment Variables":
+                    - /url: /japran/japran-market-api/settings/environment-variables
+                    - generic:
+                      - img
+                    - generic:
+                      - generic: Environment Variables
+                  - link "Domains":
+                    - /url: /japran/japran-market-api/settings/domains
+                    - generic:
+                      - img
+                    - generic:
+                      - generic: Domains
+                  - link "Connect Beta":
+                    - /url: /japran/japran-market-api/connect
+                    - generic:
+                      - img
+                    - generic:
+                      - generic: Connect
+                      - generic: Beta
+                  - link "Integrations":
+                    - /url: /japran/japran-market-api/settings/integrations
+                    - generic:
+                      - img
+                    - generic:
+                      - generic: Integrations
+                  - link "Storage":
+                    - /url: /japran/japran-market-api/stores
+                    - generic:
+                      - img
+                    - generic:
+                      - generic: Storage
+                  - link "Flags":
+                    - /url: /japran/japran-market-api/flags
+                    - generic:
+                      - img
+                    - generic:
+                      - generic: Flags
+                    - generic:
+                      - img
+                  - link "Agent":
+                    - /url: /japran/japran-market-api/agent
+                    - generic:
+                      - img
+                    - generic:
+                      - generic: Agent
+                    - generic:
+                      - img
+                  - link "AI Gateway":
+                    - /url: /japran/japran-market-api/ai-gateway
+                    - generic:
+                      - img
+                    - generic:
+                      - generic: AI Gateway
+                    - generic:
+                      - img
+                  - link "Sandboxes":
+                    - /url: /japran/japran-market-api/sandboxes
+                    - generic:
+                      - img
+                    - generic:
+                      - generic: Sandboxes
+                    - generic:
+                      - img
+                  - link "Workflows":
+                    - /url: /japran/japran-market-api/workflows
+                    - generic:
+                      - img
+                    - generic:
+                      - generic: Workflows
+                  - link "Images Beta":
+                    - /url: /japran/japran-market-api/images
+                    - generic:
+                      - img
+                    - generic:
+                      - generic: Images
+                      - generic: Beta
+                  - separator
+                  - link "Usage":
+                    - /url: /japran/japran-market-api/usage
+                    - generic:
+                      - img
+                    - generic:
+                      - generic: Usage
+                  - link "Support":
+                    - /url: /japran/japran-market-api/support
+                    - generic:
+                      - img
+                    - generic:
+                      - generic: Support
+                  - link "Settings":
+                    - /url: /japran/japran-market-api/settings
+                    - generic:
+                      - img
+                    - generic:
+                      - generic: Settings
+                    - generic:
+                      - img
+              - generic [ref=f30e33]:
+                - button "Observability" [ref=f30e35] [cursor=pointer]:
+                  - img [ref=f30e37]
+                  - generic [ref=f30e39]: Observability
+                - generic [ref=f30e41]:
+                  - link "Overview" [ref=f30e42] [cursor=pointer]:
+                    - /url: /japran/japran-market-api/observability
+                    - img [ref=f30e44]
+                    - generic [ref=f30e47]: Overview
+                  - link "Query" [ref=f30e48] [cursor=pointer]:
+                    - /url: /japran/japran-market-api/observability/query
+                    - img [ref=f30e50]
+                    - generic [ref=f30e53]: Query
+                  - link "Notebooks" [ref=f30e54] [cursor=pointer]:
+                    - /url: /japran/japran-market-api/observability/notebooks
+                    - img [ref=f30e56]
+                    - generic [ref=f30e59]: Notebooks
+                  - link "Alerts" [ref=f30e60] [cursor=pointer]:
+                    - /url: /japran/japran-market-api/observability/alerts
+                    - img [ref=f30e62]
+                    - generic [ref=f30e65]: Alerts
+                  - generic [ref=f30e66]: Compute
+                  - link "Functions" [ref=f30e67] [cursor=pointer]:
+                    - /url: /japran/japran-market-api/observability/vercel-functions
+                    - img [ref=f30e69]
+                    - generic [ref=f30e72]: Functions
+                  - link "Agent Runs" [ref=f30e73] [cursor=pointer]:
+                    - /url: /japran/japran-market-api/observability/agent-runs
+                    - img [ref=f30e75]
+                    - generic [ref=f30e78]: Agent Runs
+                  - link "Sandboxes" [ref=f30e79] [cursor=pointer]:
+                    - /url: /japran/japran-market-api/observability/sandboxes
+                    - img [ref=f30e81]
+                    - generic [ref=f30e84]: Sandboxes
+                  - link "Cron Jobs" [ref=f30e85] [cursor=pointer]:
+                    - /url: /japran/japran-market-api/observability/cron-jobs
+                    - img [ref=f30e87]
+                    - generic [ref=f30e90]: Cron Jobs
+                  - link "External APIs" [ref=f30e91] [cursor=pointer]:
+                    - /url: /japran/japran-market-api/observability/external-apis
+                    - img [ref=f30e93]
+                    - generic [ref=f30e96]: External APIs
+                  - link "Middleware" [ref=f30e97] [cursor=pointer]:
+                    - /url: /japran/japran-market-api/observability/middleware
+                    - img [ref=f30e99]
+                    - generic [ref=f30e102]: Middleware
+                  - link "Runtime Cache" [ref=f30e103] [cursor=pointer]:
+                    - /url: /japran/japran-market-api/observability/runtime-cache
+                    - img [ref=f30e105]
+                    - generic [ref=f30e108]: Runtime Cache
+                  - generic [ref=f30e109]: CDN
+                  - link "Edge Requests" [ref=f30e110] [cursor=pointer]:
+                    - /url: /japran/japran-market-api/observability/edge-requests
+                    - img [ref=f30e112]
+                    - generic [ref=f30e115]: Edge Requests
+                  - link "ISR" [ref=f30e116] [cursor=pointer]:
+                    - /url: /japran/japran-market-api/observability/isr
+                    - img [ref=f30e118]
+                    - generic [ref=f30e121]: ISR
+                  - link "Fast Data Transfer" [ref=f30e122] [cursor=pointer]:
+                    - /url: /japran/japran-market-api/observability/fast-data-transfer
+                    - img [ref=f30e124]
+                    - generic [ref=f30e127]: Fast Data Transfer
+                  - link "Image Optimization" [ref=f30e128] [cursor=pointer]:
+                    - /url: /japran/japran-market-api/observability/image-optimization
+                    - img [ref=f30e130]
+                    - generic [ref=f30e133]: Image Optimization
+                  - link "External Origins" [ref=f30e134] [cursor=pointer]:
+                    - /url: /japran/japran-market-api/observability/external-origins
+                    - img [ref=f30e136]
+                    - generic [ref=f30e140]: External Origins
+                  - link "Microfrontends" [ref=f30e141] [cursor=pointer]:
+                    - /url: /japran/japran-market-api/observability/microfrontends
+                    - img [ref=f30e143]
+                    - generic [ref=f30e148]: Microfrontends
+                  - generic [ref=f30e149]: Deployments
+                  - link "Build Diagnostics" [ref=f30e150] [cursor=pointer]:
+                    - /url: /japran/japran-market-api/observability/build-diagnostics
+                    - img [ref=f30e152]
+                    - generic [ref=f30e155]: Build Diagnostics
+                  - generic [ref=f30e156]: Services
+                  - link "AI" [ref=f30e157] [cursor=pointer]:
+                    - /url: /japran/japran-market-api/observability/ai
+                    - img [ref=f30e159]
+                    - generic [ref=f30e162]: AI
+                  - link "Blob" [ref=f30e163] [cursor=pointer]:
+                    - /url: /japran/japran-market-api/observability/blob
+                    - img [ref=f30e165]
+                    - generic [ref=f30e168]: Blob
+                  - link "Queues Beta" [ref=f30e169] [cursor=pointer]:
+                    - /url: /japran/japran-market-api/observability/queues
+                    - img [ref=f30e171]
+                    - generic [ref=f30e173]:
+                      - generic [ref=f30e174]: Queues
+                      - generic [ref=f30e175]: Beta
+          - generic [ref=f30e180]:
+            - button "Avatar for faaardoangyagesya-tech faaardoangyagesya-tech" [disabled]:
+              - img "Avatar for faaardoangyagesya-tech":
+                - img "Avatar for faaardoangyagesya-tech"
+              - generic:
+                - generic: faaardoangyagesya-tech
+              - generic:
+                - img
+            - img [ref=f30e183]
+        - button [ref=f30e186] [cursor=pointer]:
+          - img [ref=f30e187]
+      - generic [ref=f30e191]:
+        - generic [ref=f30e194]:
+          - link [ref=f30e195] [cursor=pointer]:
+            - /url: /japran/japran-market-api
+          - button [ref=f30e197] [cursor=pointer]:
+            - img [ref=f30e199]
+          - link "Back to team view" [ref=f30e203] [cursor=pointer]:
+            - /url: /japran
+            - img [ref=f30e205]
+        - generic [ref=f30e209]: Observability
+  - alert [ref=f30e212]
+  - generic:
+    - generic:
+      - generic:
+        - generic:
+          - img
