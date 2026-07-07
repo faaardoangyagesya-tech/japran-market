@@ -1,0 +1,71 @@
+@import "tailwindcss";
+
+@theme {
+  --color-dark-950: #0a0a0f;
+  --color-dark-900: #111827;
+  --color-dark-800: #1e293b;
+  --color-dark-700: #334155;
+  --color-gold: #f59e0b;
+  --color-gold-dark: #d97706;
+  --color-gold-light: #fbbf24;
+  --color-blue-accent: #1d4ed8;
+  --color-blue-accent-light: #3b82f6;
+  --color-text-primary: #f8fafc;
+  --color-text-muted: #94a3b8;
+  --font-family-sans: 'Inter', sans-serif;
+}
+
+* {
+  scrollbar-width: thin;
+  scrollbar-color: rgba(245, 158, 11, 0.2) #0a0a0f;
+}
+
+body {
+  font-family: 'Inter', sans-serif;
+}
+
+.glass {
+  background: rgba(17, 24, 39, 0.7);
+  backdrop-filter: blur(16px);
+  -webkit-backdrop-filter: blur(16px);
+}
+
+.text-gradient {
+  background: linear-gradient(135deg, #f59e0b, #fbbf24, #f59e0b);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+}
+
+.card-hover {
+  transition: all 0.3s ease;
+}
+
+.card-hover:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 8px 25px rgba(245, 158, 11, 0.1);
+}
+
+.glow-gold {
+  box-shadow: 0 0 15px rgba(245, 158, 11, 0.1);
+}
+
+@keyframes fadeIn {
+  from { opacity: 0; transform: translateY(-8px); }
+  to { opacity: 1; transform: translateY(0); }
+}
+
+.animate-fade-in {
+  animation: fadeIn 0.3s ease-out;
+}
+
+.modal-enter-active,
+.modal-leave-active {
+  transition: all 0.25s ease;
+}
+
+.modal-enter-from,
+.modal-leave-to {
+  opacity: 0;
+  transform: scale(0.95);
+}
