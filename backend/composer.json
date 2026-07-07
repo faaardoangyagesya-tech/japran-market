@@ -27,9 +27,6 @@
     "scripts": {
         "post-autoload-dump": [
             "Illuminate\\Foundation\\ComposerScripts::postAutoloadDump"
-        ],
-        "vercel": [
-            "php -r \"chdir(getenv('VERCEL_ROOT_DIR') ?: '.'); require 'artisan';\""
         ]
     },
     "minimum-stability": "stable",
