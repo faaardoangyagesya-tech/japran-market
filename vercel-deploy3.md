@@ -1,0 +1,379 @@
+- generic [active] [ref=f10e1]:
+  - link "Skip to content":
+    - /url: "#geist-skip-nav"
+  - main [ref=f10e3]:
+    - generic [ref=f10e4]:
+      - generic [ref=f10e5]:
+        - generic [ref=f10e6]:
+          - generic [ref=f10e7]:
+            - generic [ref=f10e10]:
+              - link "Japran Hobby" [ref=f10e11] [cursor=pointer]:
+                - /url: /japran
+                - img [ref=f10e12]
+                - generic [ref=f10e13]:
+                  - generic [ref=f10e14]: Japran
+                  - generic [ref=f10e15]: Hobby
+              - button [ref=f10e16] [cursor=pointer]:
+                - img [ref=f10e18]
+            - button "Find… F" [ref=f10e21]:
+              - generic [ref=f10e23]:
+                - img [ref=f10e25]
+                - generic [ref=f10e27]: Find…
+                - generic [ref=f10e29]: F
+          - navigation [ref=f10e31]:
+            - generic [ref=f10e34]:
+              - link "Other Overview" [ref=f10e407] [cursor=pointer]:
+                - /url: /japran/japran-market-api
+                - img "Other" [ref=f10e408]:
+                  - img "Other" [ref=f10e409]
+                - generic [ref=f10e39]: Overview
+              - link "Deployments" [ref=f10e40] [cursor=pointer]:
+                - /url: /japran/japran-market-api/deployments
+                - img [ref=f10e42]
+                - generic [ref=f10e45]: Deployments
+              - link "Logs" [ref=f10e46] [cursor=pointer]:
+                - /url: /japran/japran-market-api/logs
+                - img [ref=f10e48]
+                - generic [ref=f10e51]: Logs
+              - link "Analytics" [ref=f10e52] [cursor=pointer]:
+                - /url: /japran/japran-market-api/analytics
+                - img [ref=f10e54]
+                - generic [ref=f10e57]: Analytics
+              - link "Speed Insights" [ref=f10e58] [cursor=pointer]:
+                - /url: /japran/japran-market-api/speed-insights
+                - img [ref=f10e60]
+                - generic [ref=f10e63]: Speed Insights
+              - link "Observability" [ref=f10e64] [cursor=pointer]:
+                - /url: /japran/japran-market-api/observability
+                - img [ref=f10e66]
+                - generic [ref=f10e69]: Observability
+                - img [ref=f10e71]
+              - link "Firewall" [ref=f10e73] [cursor=pointer]:
+                - /url: /japran/japran-market-api/firewall
+                - img [ref=f10e75]
+                - generic [ref=f10e79]: Firewall
+                - img [ref=f10e81]
+              - link "CDN" [ref=f10e83] [cursor=pointer]:
+                - /url: /japran/japran-market-api/cdn
+                - img [ref=f10e85]
+                - generic [ref=f10e88]: CDN
+                - img [ref=f10e90]
+              - separator [ref=f10e92]
+              - link "Environment Variables" [ref=f10e93] [cursor=pointer]:
+                - /url: /japran/japran-market-api/settings/environment-variables
+                - img [ref=f10e95]
+                - generic [ref=f10e98]: Environment Variables
+              - link "Domains" [ref=f10e99] [cursor=pointer]:
+                - /url: /japran/japran-market-api/settings/domains
+                - img [ref=f10e101]
+                - generic [ref=f10e104]: Domains
+              - link "Connect Beta" [ref=f10e105] [cursor=pointer]:
+                - /url: /japran/japran-market-api/connect
+                - img [ref=f10e107]
+                - generic [ref=f10e109]:
+                  - generic [ref=f10e110]: Connect
+                  - generic [ref=f10e111]: Beta
+              - link "Integrations" [ref=f10e112] [cursor=pointer]:
+                - /url: /japran/japran-market-api/settings/integrations
+                - img [ref=f10e114]
+                - generic [ref=f10e117]: Integrations
+              - link "Storage" [ref=f10e118] [cursor=pointer]:
+                - /url: /japran/japran-market-api/stores
+                - img [ref=f10e120]
+                - generic [ref=f10e123]: Storage
+              - link "Flags" [ref=f10e124] [cursor=pointer]:
+                - /url: /japran/japran-market-api/flags
+                - img [ref=f10e126]
+                - generic [ref=f10e129]: Flags
+                - img [ref=f10e131]
+              - link "Agent" [ref=f10e133] [cursor=pointer]:
+                - /url: /japran/japran-market-api/agent
+                - img [ref=f10e135]
+                - generic [ref=f10e138]: Agent
+                - img [ref=f10e140]
+              - link "AI Gateway" [ref=f10e142] [cursor=pointer]:
+                - /url: /japran/japran-market-api/ai-gateway
+                - img [ref=f10e144]
+                - generic [ref=f10e147]: AI Gateway
+                - img [ref=f10e149]
+              - link "Sandboxes" [ref=f10e151] [cursor=pointer]:
+                - /url: /japran/japran-market-api/sandboxes
+                - img [ref=f10e153]
+                - generic [ref=f10e156]: Sandboxes
+                - img [ref=f10e158]
+              - link "Workflows" [ref=f10e160] [cursor=pointer]:
+                - /url: /japran/japran-market-api/workflows
+                - img [ref=f10e162]
+                - generic [ref=f10e165]: Workflows
+              - link "Images Beta" [ref=f10e166] [cursor=pointer]:
+                - /url: /japran/japran-market-api/images
+                - img [ref=f10e168]
+                - generic [ref=f10e170]:
+                  - generic [ref=f10e171]: Images
+                  - generic [ref=f10e172]: Beta
+              - separator [ref=f10e173]
+              - link "Usage" [ref=f10e174] [cursor=pointer]:
+                - /url: /japran/japran-market-api/usage
+                - img [ref=f10e176]
+                - generic [ref=f10e179]: Usage
+              - link "Support" [ref=f10e180] [cursor=pointer]:
+                - /url: /japran/japran-market-api/support
+                - img [ref=f10e182]
+                - generic [ref=f10e185]: Support
+              - link "Settings" [ref=f10e186] [cursor=pointer]:
+                - /url: /japran/japran-market-api/settings
+                - img [ref=f10e188]
+                - generic [ref=f10e191]: Settings
+                - img [ref=f10e193]
+          - generic [ref=f10e199]:
+            - button "Avatar for faaardoangyagesya-tech faaardoangyagesya-tech" [ref=f10e200] [cursor=pointer]:
+              - img "Avatar for faaardoangyagesya-tech" [ref=f10e201]:
+                - img "Avatar for faaardoangyagesya-tech" [ref=f10e202]
+              - generic [ref=f10e204]: faaardoangyagesya-tech
+              - img [ref=f10e206]
+            - button "9 unseen notifications" [ref=f10e411] [cursor=pointer]:
+              - generic [ref=f10e412]:
+                - generic [ref=f10e413]:
+                  - img
+                - img [ref=f10e414]
+        - button [ref=f10e213] [cursor=pointer]:
+          - img [ref=f10e214]
+      - generic [ref=f10e217]:
+        - generic [ref=f10e218]:
+          - generic [ref=f10e221]:
+            - link "Other" [ref=f10e416] [cursor=pointer]:
+              - /url: /japran/japran-market-api
+              - img "Other" [ref=f10e417]:
+                - img "Other" [ref=f10e418]
+            - button [ref=f10e224] [cursor=pointer]:
+              - img [ref=f10e226]
+            - link "Back to team view" [ref=f10e230] [cursor=pointer]:
+              - /url: /japran/~/deployments
+              - img [ref=f10e232]
+          - generic [ref=f10e234]:
+            - generic [ref=f10e235]:
+              - link "Deployments" [ref=f10e236] [cursor=pointer]:
+                - /url: /japran/japran-market-api/deployments
+              - img [ref=f10e237]
+            - generic [ref=f10e239]:
+              - generic [ref=f10e242]: 7qpehdmeB
+              - button "Copy ID" [ref=f10e244] [cursor=pointer]:
+                - generic [ref=f10e245]:
+                  - img [ref=f10e247]
+                  - img [ref=f10e250]
+        - generic [ref=f10e253]:
+          - generic [ref=f10e255]:
+            - link "Deployment" [ref=f10e256] [cursor=pointer]:
+              - /url: /japran/japran-market-api/7qpehdmeBHxHnoZP3U7pywThGJnS
+            - link "Logs" [ref=f10e257] [cursor=pointer]:
+              - /url: /japran/japran-market-api/7qpehdmeBHxHnoZP3U7pywThGJnS/logs
+            - link "Resources" [ref=f10e258] [cursor=pointer]:
+              - /url: /japran/japran-market-api/7qpehdmeBHxHnoZP3U7pywThGJnS/resources
+            - link "Source" [ref=f10e259] [cursor=pointer]:
+              - /url: /japran/japran-market-api/7qpehdmeBHxHnoZP3U7pywThGJnS/source
+            - link "Open Graph" [ref=f10e260] [cursor=pointer]:
+              - /url: /japran/japran-market-api/7qpehdmeBHxHnoZP3U7pywThGJnS/og
+          - generic [ref=f10e261]:
+            - generic [ref=f10e263]:
+              - generic [ref=f10e264]:
+                - heading "Deployment Details" [level=3] [ref=f10e266]
+                - generic [ref=f10e267]:
+                  - button "Redeploy" [ref=f10e269] [cursor=pointer]:
+                    - img [ref=f10e271]
+                    - generic [ref=f10e273]: Redeploy
+                  - button "Deployment Actions" [ref=f10e274] [cursor=pointer]:
+                    - img [ref=f10e277]
+              - generic [ref=f10e279]:
+                - generic [ref=f10e283]:
+                  - generic [ref=f10e285]:
+                    - img [ref=f10e287]
+                    - heading "Build Failed" [level=3] [ref=f10e289]
+                  - generic [ref=f10e294]: Command "vercel build" exited with 1
+                - generic [ref=f10e296]:
+                  - generic [ref=f10e297]:
+                    - generic [ref=f10e298]:
+                      - generic [ref=f10e299]: Created
+                      - generic [ref=f10e300]:
+                        - img "faaardoangyagesya-tech Avatar" [ref=f10e304] [cursor=pointer]:
+                          - img "faaardoangyagesya-tech Avatar" [ref=f10e305]
+                        - generic [ref=f10e306]: faaardoangyagesya-tech
+                        - generic [ref=f10e308]: Just now
+                    - generic [ref=f10e309]:
+                      - generic [ref=f10e310]: Status
+                      - generic "This deployment had an error." [ref=f10e311]:
+                        - generic [ref=f10e315]: Error
+                    - generic [ref=f10e316]:
+                      - generic [ref=f10e317]: Duration
+                      - generic "Jul 8, 2026, 12:57:13 AM GMT+7" [ref=f10e318]:
+                        - img [ref=f10e319]
+                        - text: 8s
+                        - generic [ref=f10e322]: Just now
+                    - generic [ref=f10e323]:
+                      - generic [ref=f10e324]: Environment
+                      - generic [ref=f10e325]:
+                        - img [ref=f10e326]
+                        - link "Production" [ref=f10e328] [cursor=pointer]:
+                          - /url: /japran/japran-market-api/settings/environments/production
+                  - generic [ref=f10e329]:
+                    - generic [ref=f10e330]: Domains
+                    - generic [ref=f10e419]:
+                      - img [ref=f10e421]
+                      - link "japran-market-oqzq07e63-japran.vercel.app" [ref=f10e423] [cursor=pointer]:
+                        - /url: https://japran-market-oqzq07e63-japran.vercel.app
+                  - generic [ref=f10e335]:
+                    - generic [ref=f10e336]: Source
+                    - generic [ref=f10e337]:
+                      - img [ref=f10e338]
+                      - link "View code" [ref=f10e340] [cursor=pointer]:
+                        - /url: /japran/japran-market-api/7qpehdmeBHxHnoZP3U7pywThGJnS/source
+                    - generic [ref=f10e341]:
+                      - img [ref=f10e342]
+                      - link "vercel deploy" [ref=f10e344] [cursor=pointer]:
+                        - /url: /docs/cli/deploy
+              - button "Deployment Settings 3 Recommendations" [ref=f10e424] [cursor=pointer]:
+                - generic [ref=f10e349]:
+                  - img [ref=f10e350]
+                  - generic [ref=f10e352]:
+                    - generic [ref=f10e353]: Deployment Settings
+                    - generic [ref=f10e429]: 3 Recommendations
+            - generic [ref=f10e354]:
+              - generic [ref=f10e355]:
+                - generic [ref=f10e430]:
+                  - heading "Deploy Logs 8s" [level=2] [ref=f10e431]:
+                    - generic [ref=f10e432] [cursor=pointer]:
+                      - img [ref=f10e433]
+                      - generic [ref=f10e437]: Deploy Logs
+                      - generic [ref=f10e438]: 8s
+                      - img [ref=f10e440]
+                  - region "Deploy Logs 8s" [ref=f10e442]:
+                    - generic [ref=f10e444]:
+                      - generic [ref=f10e445]:
+                        - button "all lines" [ref=f10e446] [cursor=pointer]:
+                          - generic [ref=f10e448]:
+                            - img [ref=f10e450]
+                            - img [ref=f10e453]
+                        - generic [ref=f10e455]: 25 lines
+                        - 'button "error count: 1" [ref=f10e458] [cursor=pointer]':
+                          - generic [ref=f10e459]:
+                            - img [ref=f10e460]
+                            - generic [ref=f10e463]: "1"
+                        - generic [ref=f10e465]:
+                          - searchbox "Search" [ref=f10e466]
+                          - img [ref=f10e468]
+                          - generic [ref=f10e471]:
+                            - generic [ref=f10e472]: Ctrl
+                            - text: F
+                      - generic [ref=f10e476]:
+                        - generic [ref=f10e477]:
+                          - generic [ref=f10e479]: 00:57:06.775
+                          - generic [ref=f10e481]: "> Installing Builder: vercel-php@0.9.0"
+                        - generic [ref=f10e482]:
+                          - generic [ref=f10e484]: 00:57:11.132
+                          - generic [ref=f10e486]: 🐘 Downloading user files
+                        - generic [ref=f10e487]:
+                          - generic [ref=f10e489]: 00:57:11.132
+                          - generic [ref=f10e491]: 🐘 Downloading PHP runtime files
+                        - generic [ref=f10e492]:
+                          - generic [ref=f10e494]: 00:57:11.133
+                          - generic [ref=f10e496]: 🐘 Installing Composer dependencies [START]
+                        - generic [ref=f10e497]:
+                          - generic [ref=f10e499]: 00:57:11.402
+                          - generic [ref=f10e501]:
+                            - text: "[5.6MiB/0.11s] No composer.lock file present. Updating dependencies to latest instead of installing from lock file. See"
+                            - link "https://getcomposer.org/install" [ref=f10e502] [cursor=pointer]:
+                              - /url: https://getcomposer.org/install
+                            - text: for more information.
+                        - generic [ref=f10e503]:
+                          - generic [ref=f10e505]: 00:57:11.403
+                          - generic [ref=f10e507]: "[5.6MiB/0.11s] Loading composer repositories with package information"
+                        - generic [ref=f10e508]:
+                          - generic [ref=f10e510]: 00:57:12.571
+                          - generic [ref=f10e512]: "[17.3MiB/1.27s] Updating dependencies"
+                        - generic [ref=f10e513]:
+                          - generic [ref=f10e515]: 00:57:12.805
+                          - generic [ref=f10e517]: "[18.4MiB/1.51s] Your requirements could not be resolved to an installable set of packages."
+                        - generic [ref=f10e518]:
+                          - generic [ref=f10e520]: 00:57:12.806
+                          - generic [ref=f10e522]: "[18.4MiB/1.51s]"
+                        - generic [ref=f10e523]:
+                          - generic [ref=f10e525]: 00:57:12.814
+                          - generic [ref=f10e527]: Problem 1
+                        - generic [ref=f10e528]:
+                          - generic [ref=f10e530]: 00:57:12.815
+                          - generic [ref=f10e532]:
+                            - text: "- Root composer.json requires laravel/framework ^11.0, found laravel/framework[v11.0.0, ..., v11.54.0] but these were not loaded, because they are affected by security advisories (\"PKSA-m5cs-t1y6-qpcs\", \"PKSA-3r5d-mb8f-1qw9\", \"PKSA-mdq4-51ck-6kdq\", \"PKSA-8qx3-n5y5-vvnd\", \"PKSA-q46n-4fdk-zjr4\", \"PKSA-qzrn-rnz3-85w1\", \"PKSA-w7xr-vk7n-rstm\"). Go to"
+                            - link "https://packagist.org/security-advisories/" [ref=f10e533] [cursor=pointer]:
+                              - /url: https://packagist.org/security-advisories/
+                            - text: to find advisory details. To ignore the advisories, add them to the audit "ignore" config. To turn the feature off entirely, you can set "block-insecure" to false in your "audit" config.
+                        - generic [ref=f10e536]: 00:57:12.815
+                        - generic [ref=f10e538]:
+                          - generic [ref=f10e540]: 00:57:12.815
+                          - generic [ref=f10e542]: "[18.4MiB/1.51s] Running update with --no-dev does not mean require-dev is ignored, it just means the packages will not be installed. If dev requirements are blocking the update you have to resolve those problems."
+                        - generic [ref=f10e543]:
+                          - generic [ref=f10e545]: 00:57:12.816
+                          - generic [ref=f10e547]: "[11.5MiB/1.51s] Memory usage: 11.46MiB (peak: 43.06MiB), time: 1.51s"
+                        - generic [ref=f10e548]:
+                          - generic [ref=f10e550]: 00:57:12.824
+                          - generic [ref=f10e552]: "Error: Exited with 2"
+                        - generic [ref=f10e553]:
+                          - generic [ref=f10e555]: 00:57:12.824
+                          - generic [ref=f10e557]: at ChildProcess.<anonymous> (/vercel/path0/.vercel/builders/node_modules/vercel-php/dist/utils.js:191:24)
+                        - generic [ref=f10e558]:
+                          - generic [ref=f10e560]: 00:57:12.824
+                          - generic [ref=f10e562]: at ChildProcess.emit (node:events:524:28)
+                        - generic [ref=f10e563]:
+                          - generic [ref=f10e565]: 00:57:12.825
+                          - generic [ref=f10e567]: at ChildProcess._handle.onexit (node:internal/child_process:293:12)
+                - heading "Deployment Summary" [level=2] [ref=f10e357]:
+                  - generic:
+                    - img
+                    - generic:
+                      - generic: Deployment Summary
+                    - generic:
+                      - img
+                - heading "Deployment Checks" [level=2] [ref=f10e359]:
+                  - generic [ref=f10e360] [cursor=pointer]:
+                    - img [ref=f10e361]
+                    - generic [ref=f10e364]: Deployment Checks
+                    - img [ref=f10e366]
+                - heading "Assigning Custom Domains" [level=2] [ref=f10e369]:
+                  - generic:
+                    - img
+                    - generic: Assigning Custom Domains
+                    - generic:
+                      - img
+              - generic [ref=f10e371]:
+                - link "Runtime Logs View and debug runtime logs & errors" [ref=f10e372] [cursor=pointer]:
+                  - /url: /japran/japran-market-api/logs
+                  - img [ref=f10e374]
+                  - generic [ref=f10e376]:
+                    - paragraph [ref=f10e378]: Runtime Logs
+                    - paragraph [ref=f10e379]: View and debug runtime logs & errors
+                - link "Observability Monitor app health & performance" [ref=f10e380] [cursor=pointer]:
+                  - /url: /japran/japran-market-api/observability/serverless-functions
+                  - img [ref=f10e382]
+                  - generic [ref=f10e384]:
+                    - paragraph [ref=f10e386]: Observability
+                    - paragraph [ref=f10e387]: Monitor app health & performance
+                - link "Speed Insights Not Enabled Performance metrics from real users" [ref=f10e388] [cursor=pointer]:
+                  - /url: /japran/japran-market-api/speed-insights
+                  - img [ref=f10e390]
+                  - generic [ref=f10e392]:
+                    - generic [ref=f10e393]:
+                      - paragraph [ref=f10e394]: Speed Insights
+                      - generic [ref=f10e395]: Not Enabled
+                    - paragraph [ref=f10e396]: Performance metrics from real users
+                - link "Web Analytics Not Enabled Analyze visitors & traffic in real-time" [ref=f10e397] [cursor=pointer]:
+                  - /url: /japran/japran-market-api/analytics
+                  - img [ref=f10e399]
+                  - generic [ref=f10e401]:
+                    - generic [ref=f10e402]:
+                      - paragraph [ref=f10e403]: Web Analytics
+                      - generic [ref=f10e404]: Not Enabled
+                    - paragraph [ref=f10e405]: Analyze visitors & traffic in real-time
+  - alert [ref=f10e406]
+  - generic:
+    - generic:
+      - generic:
+        - generic:
+          - img
