@@ -1,16 +1,19 @@
 <?php
 
 return [
-    'default' => env('LOG_CHANNEL', 'stack'),
+    'default' => env('LOG_CHANNEL', 'stderr'),
     'channels' => [
         'stack' => [
             'driver' => 'stack',
-            'channels' => ['single'],
+            'channels' => ['stderr'],
             'ignore_exceptions' => false,
         ],
-        'single' => [
-            'driver' => 'single',
-            'path' => storage_path('logs/laravel.log'),
+        'stderr' => [
+            'driver' => 'monolog',
+            'handler' => Monolog\Handler\StreamHandler::class,
+            'with' => [
+                'stream' => 'php://stderr',
+            ],
             'level' => env('LOG_LEVEL', 'debug'),
         ],
     ],
