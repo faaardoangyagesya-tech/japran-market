@@ -4,8 +4,8 @@
     "description": "Japran Market API Backend",
     "require": {
         "php": "^8.2",
-        "laravel/framework": "^11.0",
-        "laravel/sanctum": "^4.0"
+        "laravel/framework": "^12.0",
+        "laravel/sanctum": "^5.0"
     },
     "autoload": {
         "psr-4": {
@@ -28,9 +28,6 @@
         "post-autoload-dump": [
             "Illuminate\\Foundation\\ComposerScripts::postAutoloadDump"
         ]
-    },
-    "audit": {
-        "block-insecure": false
     },
     "minimum-stability": "stable",
     "prefer-stable": true
