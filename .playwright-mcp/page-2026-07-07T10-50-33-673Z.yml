@@ -1,0 +1,56 @@
+- generic [active] [ref=f1e1]:
+  - link "Skip to content":
+    - /url: "#geist-skip-nav"
+  - generic [ref=f1e3]:
+    - banner [ref=f1e4]:
+      - link "Vercel logo":
+        - /url: /home
+        - button "Vercel Logo":
+          - img "Vercel Logo"
+      - navigation [ref=f1e5]:
+        - navigation [ref=f1e6]:
+          - link "Sign Up" [ref=f1e7] [cursor=pointer]:
+            - /url: /signup?next=%2Fjapran%2Fjapran-market-api%2FHT5cFrizNUtNRqMTrxDcxg1WQmZ6
+            - paragraph [ref=f1e9]: Sign Up
+    - main [ref=f1e10]:
+      - generic [ref=f1e12]:
+        - heading "Log in to Vercel" [level=1] [ref=f1e15]
+        - generic [ref=f1e16]:
+          - generic [ref=f1e17]:
+            - textbox "Email Address" [ref=f1e19]
+            - button "Continue with Email" [ref=f1e21] [cursor=pointer]:
+              - generic [ref=f1e22]: Continue with Email
+          - generic [ref=f1e24]:
+            - button "Continue with Google" [ref=f1e25] [cursor=pointer]:
+              - img [ref=f1e28]
+              - generic [ref=f1e30]:
+                - generic [ref=f1e31]: Continue with
+                - text: Google
+            - button "Continue with GitHub" [ref=f1e32] [cursor=pointer]:
+              - img [ref=f1e34]
+              - generic [ref=f1e36]:
+                - generic [ref=f1e37]: Continue with
+                - text: GitHub
+            - button "Continue with Apple" [ref=f1e38] [cursor=pointer]:
+              - img [ref=f1e40]
+              - generic [ref=f1e42]:
+                - generic [ref=f1e43]: Continue with
+                - text: Apple
+            - button "Continue with SAML SSO" [ref=f1e45] [cursor=pointer]:
+              - img [ref=f1e47]
+              - generic [ref=f1e49]: Continue with SAML SSO
+            - button "Continue with Passkey" [ref=f1e50] [cursor=pointer]:
+              - img [ref=f1e52]
+              - generic [ref=f1e54]: Continue with Passkey
+            - button "Show other options" [ref=f1e55] [cursor=pointer]:
+              - generic [ref=f1e56]: Show other options
+        - paragraph [ref=f1e58]:
+          - text: Don't have an account?
+          - link "Sign Up" [ref=f1e59] [cursor=pointer]:
+            - /url: /signup?next=%2Fjapran%2Fjapran-market-api%2FHT5cFrizNUtNRqMTrxDcxg1WQmZ6
+      - generic [ref=f1e62]:
+        - link "Terms" [ref=f1e63] [cursor=pointer]:
+          - /url: /legal/terms
+        - link "Privacy Policy" [ref=f1e64] [cursor=pointer]:
+          - /url: /legal/privacy-policy
+  - alert [ref=f1e65]
